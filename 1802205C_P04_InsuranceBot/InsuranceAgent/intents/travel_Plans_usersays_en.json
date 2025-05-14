@@ -1,0 +1,96 @@
+[
+  {
+    "id": "95c4700a-4e1d-4ccb-adb9-1e6b114886b7",
+    "data": [
+      {
+        "text": "insurance plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "095fbd13-9f07-41b4-99cd-41932fbbef72",
+    "data": [
+      {
+        "text": "travel plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "855f12b6-770d-4ccf-b0e3-6a43ee8b84a2",
+    "data": [
+      {
+        "text": "travel insurance plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d069d49-ca88-4c5c-a82f-25b194e37c92",
+    "data": [
+      {
+        "text": "travel prestige",
+        "alias": "travel_Plan",
+        "meta": "@plan_Details",
+        "userDefined": false
+      },
+      {
+        "text": " coverage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dab1fb29-9d07-47ba-a646-b446402c73f6",
+    "data": [
+      {
+        "text": "coverage for ",
+        "userDefined": false
+      },
+      {
+        "text": "travel plus",
+        "alias": "travel_Plan",
+        "meta": "@plan_Details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9719afcd-4d7c-4ade-8bc0-2c01de28aaf3",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "travel lite",
+        "alias": "travel_Plan",
+        "meta": "@plan_Details",
+        "userDefined": false
+      },
+      {
+        "text": " cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

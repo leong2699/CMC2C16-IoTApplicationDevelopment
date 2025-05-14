@@ -1,0 +1,124 @@
+[
+  {
+    "id": "cf68e812-f4c5-41a7-b01a-9a2e6248382a",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "84476972",
+        "alias": "phone_Number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": ", when is my upcoming appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78ea0b2b-9f21-4a1a-8e74-dedb75e86e8c",
+    "data": [
+      {
+        "text": "my id is ",
+        "userDefined": false
+      },
+      {
+        "text": "23188",
+        "alias": "booking_ID",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", what time is my appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab242964-0b32-4474-beb4-614f8f95bf82",
+    "data": [
+      {
+        "text": "my booking id is ",
+        "userDefined": false
+      },
+      {
+        "text": "56213",
+        "alias": "booking_ID",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e93648e-b8f1-4a34-8577-be560d0182ba",
+    "data": [
+      {
+        "text": "appointment details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7076461f-32f7-46d7-a5cc-ca8173c8acc6",
+    "data": [
+      {
+        "text": "upcoming booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d216c69-101e-4b77-a0e7-ccfbcc217722",
+    "data": [
+      {
+        "text": "upcoming appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c3d4351-ea07-4cbf-a237-e274c81f7998",
+    "data": [
+      {
+        "text": "which branch should i go to for my appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a76c36d1-df01-4256-b2c5-aa6de64f795c",
+    "data": [
+      {
+        "text": "when is my appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

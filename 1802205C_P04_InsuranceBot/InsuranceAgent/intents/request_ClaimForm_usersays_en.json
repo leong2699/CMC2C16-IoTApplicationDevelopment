@@ -1,0 +1,130 @@
+[
+  {
+    "id": "c037bbd0-fc18-47bb-bba4-49e8ffd3d285",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "HymLeong",
+        "alias": "givenName_Customer",
+        "meta": "@givenName_Customer",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to download the insurance claim form my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "hymleonggoh@hotmail.com",
+        "alias": "email_Address",
+        "meta": "@email_Address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a5e4d60-8656-4392-884d-e57a8c91577b",
+    "data": [
+      {
+        "text": "make claim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4d2ba6a-369d-49db-aadb-30f19e8062dd",
+    "data": [
+      {
+        "text": "redeem claim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bcb4843-6c72-474a-8504-4df5dbd4d556",
+    "data": [
+      {
+        "text": "can you send the insurance claim form to my email ",
+        "userDefined": false
+      },
+      {
+        "text": "hymleong@gmail.com",
+        "alias": "email_Address",
+        "meta": "@email_Address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b4df768-b59d-461e-bc81-9a781a382fdb",
+    "data": [
+      {
+        "text": "my email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "hymleonggoh@hotmail.com",
+        "alias": "email_Address",
+        "meta": "@email_Address",
+        "userDefined": true
+      },
+      {
+        "text": " and i would like to receive the insurance claim form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e23978-52a3-4151-90c3-e97df4897f7e",
+    "data": [
+      {
+        "text": "insurance claim form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4022ca8b-771b-41c4-af2a-71930a918ed8",
+    "data": [
+      {
+        "text": "claim insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa977594-4a22-4619-9a0f-347b442759eb",
+    "data": [
+      {
+        "text": "how do i claim insurance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

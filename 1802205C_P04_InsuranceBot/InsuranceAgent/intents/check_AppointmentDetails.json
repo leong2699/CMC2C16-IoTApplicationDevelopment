@@ -1,0 +1,68 @@
+{
+  "id": "6d925fea-ea20-4a98-a7fb-2bbb2ac536ec",
+  "name": "check_AppointmentDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6c25a66-2b28-40cd-ad36-7f77015aa36e",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "booking_ID",
+          "value": "$booking_ID",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please key in your booking ID to view it\u0027s details"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "11aa89c3-9104-4b8c-9ec9-47872942ae24",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone_Number",
+          "value": "$phone_Number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To ensure that you are the user, please enter your phone number."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You have no upcoming appointment, schedule one now?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

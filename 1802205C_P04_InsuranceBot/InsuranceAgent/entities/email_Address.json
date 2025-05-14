@@ -1,0 +1,9 @@
+{
+  "id": "9913c610-081f-4738-857d-b68dae6b88da",
+  "name": "email_Address",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

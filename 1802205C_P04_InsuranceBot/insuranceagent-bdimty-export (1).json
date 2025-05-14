@@ -1,0 +1,38 @@
+{
+  "appointmentDetails" : {
+    "84476972" : {
+      "AppointmentID" : 94832,
+      "AppointmentType" : "Consultation",
+      "Branch" : "Tampines",
+      "CustomerName" : "HymLeong",
+      "Date" : "2019-12-03T15:00:00",
+      "PhoneNumber" : "84476972",
+      "TimeSlot" : "December 3, 3 PM"
+    }
+  },
+  "branch" : {
+    "Bedok" : {
+      "Address" : "11 Bedok North Street 1 #01-32 <br><br>Heartbeat@ Bedok Singapore 469662",
+      "OperatingHours" : "<br><br>Monday - Friday : 10.00am - 6.00pm (Payment & Servicing counters close at 5.30pm) <br><br>Saturday & Sunday : 10.00am - 6.00pm (Payment & Servicing counters close at 5.30pm) <br><br>Public holidays : Closed"
+    },
+    "Tampines" : {
+      "Address" : "2 Tampines Central 6 #01-01 <br><br> Income at Tampines Point Singapore 529483<br><br>",
+      "OperatingHours" : "Monday - Friday : 10.00am - 6.00pm <br><br>Saturday : 10.00am - 6.00pm <br><br>Sunday & public holidays : Closed"
+    },
+    "Woodland" : {
+      "Address" : "900 Woodlands Drive #05-06 <br><br> Woodlands Civic Centre, Singapore 730900 <br><br>",
+      "OperatingHours" : "Monday - Friday : 10.00am - 6.00pm <br><br>Saturday: 10.00am - 6.00pm <br><br>Sunday & public holidays : Closed"
+    }
+  },
+  "plan" : {
+    "Travel Lite" : {
+      "Coverage" : "24/7 <br><br>Emergency travel assistance <br><br>Loss of frequent flyers points <br><br>Rental vehicle excess1 S$1,000 <br><br>Loss of baggage2     S$3,000 <br><br>Accidental death & disability S$50,000 <br><br>Overseas medical expenses S$250,000 <br><br>Personal liability S$250,000 <br><br>Trip     interruption - Change of trip itinerary S$1,000"
+    },
+    "Travel Plus" : {
+      "Coverage" : "24/7 Emergency travel assistance <br><br>Loss of frequent flyers points <br><br>Rental vehicle excess1 S$1,500 <br><br>Loss of baggage2 S$5,000 <br><br>Accidental death & disability S$100,000 <br><br>Overseas medical expenses S$2,000,000 <br><br>Personal liability S$1,000,000 <br><br> Trip interruption - Change of trip itinerary S$2,000 <br><br>Trip cancellation for any reason3 S$5,000 <br><br>Change of travelling date for any reason3 S$2,000"
+    },
+    "Travel Prestige" : {
+      "Coverage" : "24/7 Emergency travel assistance <br><br>Loss of frequent flyers points <br><br>Rental vehicle excess1 S$2,500 <br><br>Loss of baggage2 S$8,000 <br><br>Accidental death & disability S$500,000 <br><br>Overseas medical expenses <br><br>Unlimited Personal liability S$2,000,000 <br><br>Trip Interruption - Change of trip itinerary S$3,000 <br><br>Trip cancellation for any reason3 S$5,000 <br><br>Change of travelling     date for any reason3 S$3,000 <br><br>Unauthorised use of credit card S$1,000"
+    }
+  }
+}

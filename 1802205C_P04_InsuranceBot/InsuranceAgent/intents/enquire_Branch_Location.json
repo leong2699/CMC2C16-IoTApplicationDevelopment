@@ -1,0 +1,50 @@
+{
+  "id": "0e97962a-835d-4f80-afda-242f9f1a0eb3",
+  "name": "enquire_Branch_Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96419570-e0e0-46af-87de-40f9bc38f444",
+          "required": true,
+          "dataType": "@branch_Location",
+          "name": "branch_Location",
+          "value": "$branch_Location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here are our branches location. Please select one to view more details. \u003cbr\u003e \u003cbutton msg\u003d\u0027Tampines\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eTampines\u003c/button\u003e \u003cbutton msg\u003d\u0027Bedok\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eBedok\u003c/button\u003e \u003cbutton msg\u003d\u0027Woodland\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eWoodland\u003c/button\u003e"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is no Boss Brothers branch located at that area, sorry :("
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

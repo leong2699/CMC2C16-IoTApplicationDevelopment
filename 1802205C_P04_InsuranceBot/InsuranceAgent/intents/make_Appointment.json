@@ -1,0 +1,122 @@
+{
+  "id": "4d0cb223-1a85-4851-9555-871ed0da5581",
+  "name": "make_Appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3696a33-eab4-4689-ae3a-a88da33bc198",
+          "required": true,
+          "dataType": "@givenName_Customer",
+          "name": "givenName_Customer",
+          "value": "$givenName_Customer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How do I address you as?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0a3fde77-1046-4ee2-b32d-d96ce7d22118",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which date would you like for your appointment to be scheduled on?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b01770d8-e607-4577-a110-5d825d7427cc",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time are you planning to come?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c59ff189-01a0-4631-a0c7-d220b24930eb",
+          "required": true,
+          "dataType": "@branch_Location",
+          "name": "branch_Location",
+          "value": "$branch_Location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here are some of the branches location! Please select one that is best for you. \u003cbr\u003e \u003cbutton msg\u003d\u0027Tampines\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eTampines\u003c/button\u003e \u003cbutton msg\u003d\u0027Bedok\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eBedok\u003c/button\u003e \u003cbutton msg\u003d\u0027Woodland\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eWoodland\u003c/button\u003e"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bb0207a5-966d-4c24-a272-ff63ca08c7af",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone_number",
+          "value": "$phone_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I have your contact number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Database error! Please try again in a few minutes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

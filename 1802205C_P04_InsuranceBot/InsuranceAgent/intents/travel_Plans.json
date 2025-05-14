@@ -1,0 +1,50 @@
+{
+  "id": "b372b40d-aee8-4bed-beae-f731ce4b8a9b",
+  "name": "travel_Plans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0318fe1f-83c0-4d18-b85f-c87e5099b9d4",
+          "required": true,
+          "dataType": "@plan_Details",
+          "name": "travel_Plan",
+          "value": "$travel_Plan",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here are three travel insurance plans that Boss Brothers offers! \u003cbr\u003e \u003cbutton msg\u003d\u0027Travel Lite\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eTravel Lite\u003c/button\u003e \u003cbutton msg\u003d\u0027Travel Plus\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eTravel Plus\u003c/button\u003e \u003cbutton msg\u003d\u0027Travel Prestige\u0027 type\u003d\u0027button\u0027 class\u003d\u0027response btn btn-secondary btn-block\u0027\u003eTravel Prestige\u003c/button\u003e"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry, there is no such insurance plans available currently, are you looking for Travel Lite, Travel Plus or Travel Prestige?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

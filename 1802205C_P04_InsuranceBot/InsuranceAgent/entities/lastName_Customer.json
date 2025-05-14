@@ -1,0 +1,9 @@
+{
+  "id": "0622a4a1-ee99-4c9d-b256-f5f0e6cf53ca",
+  "name": "lastName_Customer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

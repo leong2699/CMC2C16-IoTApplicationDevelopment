@@ -1,0 +1,74 @@
+[
+  {
+    "id": "05b13fd2-e8ed-4c02-936d-3e257f1e823e",
+    "data": [
+      {
+        "text": "what are your hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81fe39b4-d630-4ffc-b5fb-3593534f74de",
+    "data": [
+      {
+        "text": "what are your operating hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06ff054c-f173-4881-a1b6-739df64664fe",
+    "data": [
+      {
+        "text": "how late do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "669bf5ec-2613-4ce6-9403-140193be2580",
+    "data": [
+      {
+        "text": "when do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8d0e680-0fcb-4d41-9e61-8dc73175fe1d",
+    "data": [
+      {
+        "text": "is BossBrothers still opened?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e790feb-125c-4763-bbd9-c72fa73cbdfb",
+    "data": [
+      {
+        "text": "what time do BossBrothers insurance close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

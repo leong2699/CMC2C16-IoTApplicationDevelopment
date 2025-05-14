@@ -1,0 +1,68 @@
+{
+  "id": "5cda583c-0534-4a6c-8cdb-e133f0e50e2c",
+  "name": "cancel_Appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "068f7d69-2e78-48a5-9178-058b99875d40",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "booking_ID",
+          "value": "$booking_ID",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the appointment ID."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ba75716d-ce87-4ec4-a0a7-5eb72c0b0764",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone_Number",
+          "value": "$phone_Number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the mobile number linked to the appointment to confirm your identity. \u003cbr\u003e\u003cbr\u003eOnce you entered your mobile number, the booking will be cancelled."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Appointment with BookingID: $booking_ID has been cancelled."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "8736de42-9a1b-49f1-848c-229ac9dc2b6f",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "84476972",
+        "alias": "phone_Number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " and i want to cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6720b3c-9047-4244-9f8d-75a8012a1e55",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "89350",
+        "alias": "booking_ID",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c033c7b6-80bd-4f28-a321-80bc93d3a969",
+    "data": [
+      {
+        "text": "i want to cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "89350",
+        "alias": "booking_ID",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e22f34db-3472-4410-bfc2-b40b8f2d0684",
+    "data": [
+      {
+        "text": "my appointment id is ",
+        "userDefined": false
+      },
+      {
+        "text": "89350",
+        "alias": "booking_ID",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", and i want to cancel it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2166ff55-e4f2-47d3-80d3-df320deef444",
+    "data": [
+      {
+        "text": "i dont want appoitnment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "118056fc-3974-435a-8f6c-212119f7244a",
+    "data": [
+      {
+        "text": "abort appointing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b532d60-6828-4bc9-b121-50eeee846f4c",
+    "data": [
+      {
+        "text": "cancel booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaff6ab4-fa9e-4070-98e6-957978ba8789",
+    "data": [
+      {
+        "text": "i would like to cancel my appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

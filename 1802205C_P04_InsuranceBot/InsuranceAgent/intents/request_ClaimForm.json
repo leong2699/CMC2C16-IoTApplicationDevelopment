@@ -1,0 +1,68 @@
+{
+  "id": "9c580fb9-3b65-451b-85b4-f74dbe1a718e",
+  "name": "request_ClaimForm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c353e41-04f1-4d37-9887-60e70801edb4",
+          "required": true,
+          "dataType": "@givenName_Customer",
+          "name": "givenName_Customer",
+          "value": "$givenName_Customer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Before we proceed, how do I address you as?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "547649dd-f927-4d05-afb4-4ad38b8ed3ee",
+          "required": true,
+          "dataType": "@email_Address",
+          "name": "email_Address",
+          "value": "$email_Address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your email address."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

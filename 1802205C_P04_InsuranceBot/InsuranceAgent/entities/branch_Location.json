@@ -1,0 +1,9 @@
+{
+  "id": "0c5245fe-3a77-4d8c-b2fb-74b8550ce942",
+  "name": "branch_Location",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

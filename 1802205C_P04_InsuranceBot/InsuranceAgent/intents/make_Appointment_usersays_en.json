@@ -1,0 +1,162 @@
+[
+  {
+    "id": "a1eee68d-e8eb-4ed8-8bd3-8f3990a6f1e0",
+    "data": [
+      {
+        "text": "consultation appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c6fd1a2-0ec8-409a-9192-2034469589de",
+    "data": [
+      {
+        "text": "can i book an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e87a3af7-4bb8-4a12-8fe2-5161e8402293",
+    "data": [
+      {
+        "text": "make appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bae12fb6-98de-447f-9c81-f503f91e6daa",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Ryan",
+        "alias": "givenName_Customer",
+        "meta": "@givenName_Customer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " make appointment at ",
+        "userDefined": false
+      },
+      {
+        "text": "Tampines",
+        "alias": "branch_Location",
+        "meta": "@branch_Location",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "11/12/2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "12pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fbbc99e-0a64-4ec1-bdc5-28acd2f8c22a",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Bryce",
+        "alias": "givenName_Customer",
+        "meta": "@givenName_Customer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Koh",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " I want to make appointment at ",
+        "userDefined": false
+      },
+      {
+        "text": "Bedok",
+        "alias": "branch_Location",
+        "meta": "@branch_Location",
+        "userDefined": false
+      },
+      {
+        "text": " branch ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " around ",
+        "userDefined": false
+      },
+      {
+        "text": "3pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "8447 6972",
+        "alias": "phone_number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

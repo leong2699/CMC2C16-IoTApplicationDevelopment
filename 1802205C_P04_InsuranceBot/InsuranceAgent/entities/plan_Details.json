@@ -1,0 +1,9 @@
+{
+  "id": "e967ab05-d268-4316-9243-61651c8a95fc",
+  "name": "plan_Details",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
